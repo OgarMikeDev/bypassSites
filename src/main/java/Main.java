@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 import java.util.List;
 import java.util.concurrent.ForkJoinPool;
 
-
+//run
 public class Main {
     public static String url = "https://skillbox.ru/";
     public static PrintWriter writer;
